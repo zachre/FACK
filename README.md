@@ -13,7 +13,10 @@ Don't you wish you had a command that would do what you want AND help vent your 
 ###### Example
 
 > apachectl restart
->> Error - This operation requires root.
-> FACK
+$ Error - This operation requires root. FUCK
+$ FACK
  
 > Apache restarted.
+
+
+I'll eventually include an installer and better formatting here...
